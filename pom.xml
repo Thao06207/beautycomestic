@@ -9,8 +9,8 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>MollaShop</artifactId>
-	<version>1.0</version>
-	<packaging>war</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>MollaShop</name>
 	<description>Molla shop project for Spring Boot</description>
 	<properties>
